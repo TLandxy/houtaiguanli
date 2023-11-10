@@ -16,6 +16,7 @@ const mutations={
     state.token=null
     removeToken()
   }
+  
 }
 
 
